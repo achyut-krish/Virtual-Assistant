@@ -1,5 +1,5 @@
 # Virtual-Assistant
-<h2>A pytho program that provides answers for any question</h2>
+<h2>A python program that provides answers for any question</h2>
 <h3>Ask questions about history, math, weather, etc.</h3>
 
 <p><i>Wolfram Alpha API key needed</i></p>
